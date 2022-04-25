@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,300;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,200;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,300;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Keania+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #010031;
+}
+
+.logo h1{
+    display: flex;
+    justify-content: center;
+    font-family: "Kanit";
+    font-weight: normal;
+    margin-top: 25px;
+    color: #FD0505;
+    font-size: 35px;
+
+}
+
+.logo span{
+    color: #fff;
+}
+
+.container-1{
+    max-width: 1250px;
+    margin: auto;
+    background-color: #050921;
+    padding: 20px;
+}
+
+.Section-1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    align-items: center;
+    
+}
+
+.Card-1 img{
+    width: 125px;
+    height: auto;
+    margin-left: 35px;
+}
+
+.Card-1 p{
+    color: #fff;
+    font-family: "karla";
+    text-align: center;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.container-1 h1{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    font-family: "karla";
+    font-weight: normal;
+    color: #fff;
+}
+
+.container-2{
+    max-width: 1250px;
+    margin: auto;
+    background-color: #020126;
+    padding: 20px;
+}
+
+.container-2 h1{
+
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    font-family: "karla";
+    font-weight: normal;
+    color: #fff;
+
+}
+
+.Section-2{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.Card-2{
+    background-color: #04474B;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+
+.Card-2 h2{
+    color: #0DEBC9;
+    font-family: "keania one";
+    font-size: 45px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.Card-2 p{
+    color: #fff;
+    font-family: "karla";
+    font-size: 27px;
+    text-align: center;
+}
+
+.btn-title button{
+    background-color: #00FCCE;
+    width: 900px;
+    padding: 15px;
+    margin-left: 150px;
+    border: none;
+    font-size: 30px;
+    font-family: "karla";
+    font-weight: bold;
+
+}
+
+.btn-title h4{
+    margin-left: 150px;
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    font-weight: normal;
+    font-family: "karla";
+    margin-right: 170px;
+    margin-top: 10px;
+
+}
+
+.btn-title span{
+    color: #04B091;
+}
+
+.container-3{
+    max-width: 1250px;
+    margin: auto;
+    background-color: #04021F;
+    padding: 20px;
+}
+
+.container-3 h1{
+
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    font-family: "karla";
+    font-weight: normal;
+    color: #716BB2;
+
+}
+
+.container-3 span{
+    color: #14C5BA;
+
+}
+
+.section-3{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    margin-top: 20px;
+}
+
+.card-3{
+    background-color: #30859F;
+    padding: 45px;
+    height: 280px;
+    text-align: center;
+}
+
+.card-3 img{
+    width: 75px;
+    height: auto;
+
+}
+
+
+.card-3 p{
+    font-size: 20px;
+    color: #fff;
+    font-family: "karla";
+    margin-top: 25px;
+
+}
+
+.Rodapé{
+    max-width: 1250px;
+    margin: auto;
+    background-color: #32B494;
+    padding: 30px;
+    height: 200px;
+    margin-bottom: 15px;
+
+}
+
+.Rodapé img{
+    margin-left: 548px;
+    width: 40px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.Rodapé-link{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.Rodapé-link h4{
+    font-size: 20px;
+    font-family: "karla";
+}
+
+.Rodapé hr{
+    margin-top: 40px;
+
+}
+
+.Ropadé-title h4{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    font-family: "karla";
+    font-weight: normal;
+    margin-bottom: 15px;
+    margin-right: 30px;
+}
+
